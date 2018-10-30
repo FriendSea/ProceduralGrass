@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: addea0076e1594261b3df4e69deddfae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MapMaterial: {fileID: 2100000, guid: d3b710cae7cd34d80a02e249432c9564, type: 2}
+  - BendMaterial: {fileID: 2100000, guid: 82241ad1ad1c347f4bd3894ca6037abe, type: 2}
+  - GrassRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
